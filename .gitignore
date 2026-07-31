@@ -1,0 +1,20 @@
+# dependencies
+node_modules/
+
+# build output (regenerate with `node build.mjs`)
+dist/
+
+# run output
+artifacts/
+*.log
+
+# recon capture: the raw bundles are large third-party assets and the storage
+# state contains live session cookies. Regenerate with `node recon/capture.mjs`.
+recon/dump/assets/
+recon/dump/index.pretty.js
+recon/dump/storage.json
+recon/dump/page.html
+recon/dump/*.png
+
+# misc
+.DS_Store
