@@ -1,0 +1,30 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "bench": "node src/bench/selfplay.js",
+    "verify": "node src/bench/verify.mjs",
+    "play": "node src/driver/run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shederator/Quip.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shederator/Quip/issues"
+  },
+  "homepage": "https://github.com/Shederator/Quip#readme",
+  "dependencies": {
+    "playwright": "^1.62.1"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.1",
+    "js-beautify": "^2.0.3"
+  },
+  "type": "module"
+}

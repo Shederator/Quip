@@ -1,0 +1,810 @@
+{
+  "0": {
+    "type": "object",
+    "keys": [
+      "window",
+      "self",
+      "document",
+      "name",
+      "location",
+      "customElements",
+      "history",
+      "navigation",
+      "locationbar",
+      "menubar",
+      "personalbar",
+      "scrollbars",
+      "statusbar",
+      "toolbar",
+      "status",
+      "closed",
+      "frames",
+      "length",
+      "top",
+      "opener",
+      "parent",
+      "frameElement",
+      "navigator",
+      "origin",
+      "external",
+      "screen",
+      "innerWidth",
+      "innerHeight",
+      "scrollX",
+      "pageXOffset",
+      "scrollY",
+      "pageYOffset",
+      "visualViewport",
+      "screenX",
+      "screenY",
+      "outerWidth",
+      "outerHeight",
+      "devicePixelRatio",
+      "event",
+      "clientInformation",
+      "screenLeft",
+      "screenTop",
+      "styleMedia",
+      "onsearch",
+      "onappinstalled",
+      "onbeforeinstallprompt",
+      "onabort",
+      "onbeforeinput",
+      "onbeforematch",
+      "onbeforetoggle",
+      "onblur",
+      "oncancel",
+      "oncanplay",
+      "oncanplaythrough",
+      "onchange",
+      "onclick",
+      "onclose",
+      "oncommand",
+      "oncontentvisibilityautostatechange",
+      "oncontextlost"
+    ]
+  },
+  "1": {
+    "type": "object",
+    "keys": [
+      "0"
+    ]
+  },
+  "window": {
+    "type": "object",
+    "keys": [
+      "0",
+      "1",
+      "window",
+      "self",
+      "document",
+      "name",
+      "location",
+      "customElements",
+      "history",
+      "navigation",
+      "locationbar",
+      "menubar",
+      "personalbar",
+      "scrollbars",
+      "statusbar",
+      "toolbar",
+      "status",
+      "closed",
+      "frames",
+      "length",
+      "top",
+      "opener",
+      "parent",
+      "frameElement",
+      "navigator",
+      "origin",
+      "external",
+      "screen",
+      "innerWidth",
+      "innerHeight",
+      "scrollX",
+      "pageXOffset",
+      "scrollY",
+      "pageYOffset",
+      "visualViewport",
+      "screenX",
+      "screenY",
+      "outerWidth",
+      "outerHeight",
+      "devicePixelRatio",
+      "event",
+      "clientInformation",
+      "screenLeft",
+      "screenTop",
+      "styleMedia",
+      "onsearch",
+      "onappinstalled",
+      "onbeforeinstallprompt",
+      "onabort",
+      "onbeforeinput",
+      "onbeforematch",
+      "onbeforetoggle",
+      "onblur",
+      "oncancel",
+      "oncanplay",
+      "oncanplaythrough",
+      "onchange",
+      "onclick",
+      "onclose",
+      "oncommand"
+    ]
+  },
+  "self": {
+    "type": "object",
+    "keys": [
+      "0",
+      "1",
+      "window",
+      "self",
+      "document",
+      "name",
+      "location",
+      "customElements",
+      "history",
+      "navigation",
+      "locationbar",
+      "menubar",
+      "personalbar",
+      "scrollbars",
+      "statusbar",
+      "toolbar",
+      "status",
+      "closed",
+      "frames",
+      "length",
+      "top",
+      "opener",
+      "parent",
+      "frameElement",
+      "navigator",
+      "origin",
+      "external",
+      "screen",
+      "innerWidth",
+      "innerHeight",
+      "scrollX",
+      "pageXOffset",
+      "scrollY",
+      "pageYOffset",
+      "visualViewport",
+      "screenX",
+      "screenY",
+      "outerWidth",
+      "outerHeight",
+      "devicePixelRatio",
+      "event",
+      "clientInformation",
+      "screenLeft",
+      "screenTop",
+      "styleMedia",
+      "onsearch",
+      "onappinstalled",
+      "onbeforeinstallprompt",
+      "onabort",
+      "onbeforeinput",
+      "onbeforematch",
+      "onbeforetoggle",
+      "onblur",
+      "oncancel",
+      "oncanplay",
+      "oncanplaythrough",
+      "onchange",
+      "onclick",
+      "onclose",
+      "oncommand"
+    ]
+  },
+  "document": {
+    "type": "object",
+    "keys": [
+      "location",
+      "__sentry_instrumentation_handlers__",
+      "_reactListeninglmelku0yzkd"
+    ]
+  },
+  "name": {
+    "type": "string",
+    "value": ""
+  },
+  "location": {
+    "type": "object",
+    "keys": [
+      "ancestorOrigins",
+      "href",
+      "origin",
+      "protocol",
+      "host",
+      "hostname",
+      "port",
+      "pathname",
+      "search",
+      "hash",
+      "assign",
+      "reload",
+      "replace",
+      "toString"
+    ]
+  },
+  "customElements": {
+    "type": "object",
+    "keys": []
+  },
+  "history": {
+    "type": "object",
+    "keys": [
+      "pushState",
+      "replaceState"
+    ]
+  },
+  "navigation": {
+    "type": "object",
+    "keys": []
+  },
+  "locationbar": {
+    "type": "object",
+    "keys": []
+  },
+  "menubar": {
+    "type": "object",
+    "keys": []
+  },
+  "personalbar": {
+    "type": "object",
+    "keys": []
+  },
+  "scrollbars": {
+    "type": "object",
+    "keys": []
+  },
+  "statusbar": {
+    "type": "object",
+    "keys": []
+  },
+  "toolbar": {
+    "type": "object",
+    "keys": []
+  },
+  "status": {
+    "type": "string",
+    "value": ""
+  },
+  "closed": {
+    "type": "boolean",
+    "value": "false"
+  },
+  "frames": {
+    "type": "object",
+    "keys": [
+      "0",
+      "1",
+      "window",
+      "self",
+      "document",
+      "name",
+      "location",
+      "customElements",
+      "history",
+      "navigation",
+      "locationbar",
+      "menubar",
+      "personalbar",
+      "scrollbars",
+      "statusbar",
+      "toolbar",
+      "status",
+      "closed",
+      "frames",
+      "length",
+      "top",
+      "opener",
+      "parent",
+      "frameElement",
+      "navigator",
+      "origin",
+      "external",
+      "screen",
+      "innerWidth",
+      "innerHeight",
+      "scrollX",
+      "pageXOffset",
+      "scrollY",
+      "pageYOffset",
+      "visualViewport",
+      "screenX",
+      "screenY",
+      "outerWidth",
+      "outerHeight",
+      "devicePixelRatio",
+      "event",
+      "clientInformation",
+      "screenLeft",
+      "screenTop",
+      "styleMedia",
+      "onsearch",
+      "onappinstalled",
+      "onbeforeinstallprompt",
+      "onabort",
+      "onbeforeinput",
+      "onbeforematch",
+      "onbeforetoggle",
+      "onblur",
+      "oncancel",
+      "oncanplay",
+      "oncanplaythrough",
+      "onchange",
+      "onclick",
+      "onclose",
+      "oncommand"
+    ]
+  },
+  "length": {
+    "type": "number",
+    "value": "2"
+  },
+  "top": {
+    "type": "object",
+    "keys": [
+      "0",
+      "1",
+      "window",
+      "self",
+      "document",
+      "name",
+      "location",
+      "customElements",
+      "history",
+      "navigation",
+      "locationbar",
+      "menubar",
+      "personalbar",
+      "scrollbars",
+      "statusbar",
+      "toolbar",
+      "status",
+      "closed",
+      "frames",
+      "length",
+      "top",
+      "opener",
+      "parent",
+      "frameElement",
+      "navigator",
+      "origin",
+      "external",
+      "screen",
+      "innerWidth",
+      "innerHeight",
+      "scrollX",
+      "pageXOffset",
+      "scrollY",
+      "pageYOffset",
+      "visualViewport",
+      "screenX",
+      "screenY",
+      "outerWidth",
+      "outerHeight",
+      "devicePixelRatio",
+      "event",
+      "clientInformation",
+      "screenLeft",
+      "screenTop",
+      "styleMedia",
+      "onsearch",
+      "onappinstalled",
+      "onbeforeinstallprompt",
+      "onabort",
+      "onbeforeinput",
+      "onbeforematch",
+      "onbeforetoggle",
+      "onblur",
+      "oncancel",
+      "oncanplay",
+      "oncanplaythrough",
+      "onchange",
+      "onclick",
+      "onclose",
+      "oncommand"
+    ]
+  },
+  "opener": {
+    "type": "object",
+    "value": "null"
+  },
+  "parent": {
+    "type": "object",
+    "keys": [
+      "0",
+      "1",
+      "window",
+      "self",
+      "document",
+      "name",
+      "location",
+      "customElements",
+      "history",
+      "navigation",
+      "locationbar",
+      "menubar",
+      "personalbar",
+      "scrollbars",
+      "statusbar",
+      "toolbar",
+      "status",
+      "closed",
+      "frames",
+      "length",
+      "top",
+      "opener",
+      "parent",
+      "frameElement",
+      "navigator",
+      "origin",
+      "external",
+      "screen",
+      "innerWidth",
+      "innerHeight",
+      "scrollX",
+      "pageXOffset",
+      "scrollY",
+      "pageYOffset",
+      "visualViewport",
+      "screenX",
+      "screenY",
+      "outerWidth",
+      "outerHeight",
+      "devicePixelRatio",
+      "event",
+      "clientInformation",
+      "screenLeft",
+      "screenTop",
+      "styleMedia",
+      "onsearch",
+      "onappinstalled",
+      "onbeforeinstallprompt",
+      "onabort",
+      "onbeforeinput",
+      "onbeforematch",
+      "onbeforetoggle",
+      "onblur",
+      "oncancel",
+      "oncanplay",
+      "oncanplaythrough",
+      "onchange",
+      "onclick",
+      "onclose",
+      "oncommand"
+    ]
+  },
+  "frameElement": {
+    "type": "object",
+    "value": "null"
+  },
+  "navigator": {
+    "type": "object",
+    "keys": []
+  },
+  "origin": {
+    "type": "string",
+    "value": "https://play.quip.gg"
+  },
+  "external": {
+    "type": "object",
+    "keys": []
+  },
+  "screen": {
+    "type": "object",
+    "keys": []
+  },
+  "innerWidth": {
+    "type": "number",
+    "value": "1440"
+  },
+  "innerHeight": {
+    "type": "number",
+    "value": "900"
+  },
+  "scrollX": {
+    "type": "number",
+    "value": "0"
+  },
+  "pageXOffset": {
+    "type": "number",
+    "value": "0"
+  },
+  "scrollY": {
+    "type": "number",
+    "value": "0"
+  },
+  "pageYOffset": {
+    "type": "number",
+    "value": "0"
+  },
+  "visualViewport": {
+    "type": "object",
+    "keys": []
+  },
+  "screenX": {
+    "type": "number",
+    "value": "10"
+  },
+  "screenY": {
+    "type": "number",
+    "value": "10"
+  },
+  "outerWidth": {
+    "type": "number",
+    "value": "1448"
+  },
+  "outerHeight": {
+    "type": "number",
+    "value": "985"
+  },
+  "devicePixelRatio": {
+    "type": "number",
+    "value": "1"
+  },
+  "event": {
+    "type": "undefined",
+    "value": "undefined"
+  },
+  "clientInformation": {
+    "type": "object",
+    "keys": []
+  },
+  "screenLeft": {
+    "type": "number",
+    "value": "10"
+  },
+  "screenTop": {
+    "type": "number",
+    "value": "10"
+  },
+  "styleMedia": {
+    "type": "object",
+    "keys": []
+  },
+  "isSecureContext": {
+    "type": "boolean",
+    "value": "true"
+  },
+  "crossOriginIsolated": {
+    "type": "boolean",
+    "value": "false"
+  },
+  "scheduler": {
+    "type": "object",
+    "keys": []
+  },
+  "performance": {
+    "type": "object",
+    "keys": []
+  },
+  "trustedTypes": {
+    "type": "object",
+    "keys": []
+  },
+  "crypto": {
+    "type": "object",
+    "keys": []
+  },
+  "indexedDB": {
+    "type": "object",
+    "keys": []
+  },
+  "localStorage": {
+    "type": "object",
+    "keys": [
+      "quip.wallet.v4",
+      "privy:caid",
+      "privy:sent:cmpu10uls00j60cl7qtiufyzd:1262336617311873",
+      "privy:connections"
+    ]
+  },
+  "sessionStorage": {
+    "type": "object",
+    "keys": []
+  },
+  "crashReport": {
+    "type": "object",
+    "keys": []
+  },
+  "cookieStore": {
+    "type": "object",
+    "keys": []
+  },
+  "caches": {
+    "type": "object",
+    "keys": []
+  },
+  "documentPictureInPicture": {
+    "type": "object",
+    "keys": []
+  },
+  "sharedStorage": {
+    "type": "object",
+    "keys": []
+  },
+  "originAgentCluster": {
+    "type": "boolean",
+    "value": "true"
+  },
+  "viewport": {
+    "type": "object",
+    "keys": []
+  },
+  "credentialless": {
+    "type": "boolean",
+    "value": "false"
+  },
+  "fence": {
+    "type": "object",
+    "value": "null"
+  },
+  "launchQueue": {
+    "type": "object",
+    "keys": []
+  },
+  "speechSynthesis": {
+    "type": "object",
+    "keys": []
+  },
+  "global": {
+    "type": "object",
+    "keys": [
+      "0",
+      "1",
+      "window",
+      "self",
+      "document",
+      "name",
+      "location",
+      "customElements",
+      "history",
+      "navigation",
+      "locationbar",
+      "menubar",
+      "personalbar",
+      "scrollbars",
+      "statusbar",
+      "toolbar",
+      "status",
+      "closed",
+      "frames",
+      "length",
+      "top",
+      "opener",
+      "parent",
+      "frameElement",
+      "navigator",
+      "origin",
+      "external",
+      "screen",
+      "innerWidth",
+      "innerHeight",
+      "scrollX",
+      "pageXOffset",
+      "scrollY",
+      "pageYOffset",
+      "visualViewport",
+      "screenX",
+      "screenY",
+      "outerWidth",
+      "outerHeight",
+      "devicePixelRatio",
+      "event",
+      "clientInformation",
+      "screenLeft",
+      "screenTop",
+      "styleMedia",
+      "onsearch",
+      "onappinstalled",
+      "onbeforeinstallprompt",
+      "onabort",
+      "onbeforeinput",
+      "onbeforematch",
+      "onbeforetoggle",
+      "onblur",
+      "oncancel",
+      "oncanplay",
+      "oncanplaythrough",
+      "onchange",
+      "onclick",
+      "onclose",
+      "oncommand"
+    ]
+  },
+  "process": {
+    "type": "object",
+    "keys": [
+      "env",
+      "browser",
+      "version"
+    ]
+  },
+  "__SENTRY__": {
+    "type": "object",
+    "keys": [
+      "version",
+      "10.67.0"
+    ]
+  },
+  "__sentry_instrumentation_handlers__": {
+    "type": "object",
+    "keys": [
+      "click",
+      "keypress"
+    ]
+  },
+  "__THREE__": {
+    "type": "string",
+    "value": "184"
+  },
+  "_sentryWrappedDepth": {
+    "type": "number",
+    "value": "0"
+  },
+  "__cfBeacon": {
+    "type": "object",
+    "keys": [
+      "version",
+      "token",
+      "r",
+      "load"
+    ]
+  },
+  "turnstile": {
+    "type": "object",
+    "keys": [
+      "_private",
+      "execute",
+      "getResponse",
+      "isExpired",
+      "ready",
+      "remove",
+      "render",
+      "reset"
+    ]
+  },
+  "_walletConnectCore__count": {
+    "type": "number",
+    "value": "1"
+  },
+  "_walletConnectCore_": {
+    "type": "object",
+    "keys": [
+      "opts",
+      "protocol",
+      "version",
+      "name",
+      "relayUrl",
+      "projectId",
+      "customStoragePrefix",
+      "events",
+      "logger",
+      "heartbeat",
+      "relayer",
+      "crypto",
+      "storage",
+      "history",
+      "expirer",
+      "pairing",
+      "verify",
+      "echoClient",
+      "linkModeSupportedApps",
+      "eventClient",
+      "initialized",
+      "logChunkController",
+      "on",
+      "once",
+      "off",
+      "removeListener",
+      "dispatchEnvelope"
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "scripted": {
+    "1": {
+      "checksum": 3034562947,
+      "ticks": 1800,
+      "scores": [
+        1,
+        0
+      ]
+    },
+    "7": {
+      "checksum": 3468361369,
+      "ticks": 1800,
+      "scores": [
+        0,
+        1
+      ]
+    },
+    "12345": {
+      "checksum": 782829953,
+      "ticks": 1800,
+      "scores": [
+        0,
+        1
+      ]
+    }
+  },
+  "botMatches": {
+    "rookie:0": {
+      "checksum": 3638914305,
+      "ticks": 2807,
+      "scores": [
+        0,
+        3
+      ],
+      "winner": 1
+    },
+    "rookie:1": {
+      "checksum": 1929042332,
+      "ticks": 4001,
+      "scores": [
+        3,
+        1
+      ],
+      "winner": 0
+    },
+    "pro:0": {
+      "checksum": 2488397695,
+      "ticks": 5304,
+      "scores": [
+        0,
+        3
+      ],
+      "winner": 1
+    },
+    "pro:1": {
+      "checksum": 3355190255,
+      "ticks": 3594,
+      "scores": [
+        3,
+        0
+      ],
+      "winner": 0
+    },
+    "shark:0": {
+      "checksum": 3355190255,
+      "ticks": 3594,
+      "scores": [
+        3,
+        0
+      ],
+      "winner": 0
+    },
+    "shark:1": {
+      "checksum": 2488397695,
+      "ticks": 5304,
+      "scores": [
+        0,
+        3
+      ],
+      "winner": 1
+    }
+  }
+}
