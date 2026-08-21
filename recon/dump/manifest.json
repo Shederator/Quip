@@ -1,0 +1,345 @@
+[
+  {
+    "url": "https://play.quip.gg/asset-recover.js",
+    "status": 200,
+    "ct": "application/javascript",
+    "bytes": 1875,
+    "file": "a68e9131__asset-recover.js"
+  },
+  {
+    "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+    "status": 200,
+    "ct": "text/javascript;charset=utf-8",
+    "bytes": 31612,
+    "file": "2ee85334__v4513226cdae34746b4dedf0b4dfa099e1781791509496.txt"
+  },
+  {
+    "url": "https://play.quip.gg/assets/index-CAPxLSoD.js",
+    "status": 200,
+    "ct": "application/javascript",
+    "bytes": 4927151,
+    "file": "07a6fd03__index-CAPxLSoD.js"
+  },
+  {
+    "url": "https://fpjscdn.net/v4/MbN0aoloIHLkoyojk2dP",
+    "status": 200,
+    "ct": "text/javascript; charset=utf-8",
+    "bytes": 192833,
+    "file": "2b6cdeb2__MbN0aoloIHLkoyojk2dP.txt"
+  },
+  {
+    "url": "https://challenges.cloudflare.com/turnstile/v0/b/877c641b92f6/api.js",
+    "status": 200,
+    "ct": "application/javascript; charset=utf-8",
+    "bytes": 82469,
+    "file": "074d78f7__api.js"
+  },
+  {
+    "url": "blob:https://play.quip.gg/b474a3c3-32b3-48e1-85ef-bd4ebd4fd813",
+    "status": 200,
+    "ct": "text/javascript",
+    "bytes": 1641,
+    "file": "bf6f9eee__b474a3c3-32b3-48e1-85ef-bd4ebd4fd813.txt"
+  },
+  {
+    "url": "https://quip-rust.quipgg.workers.dev/live",
+    "status": 200,
+    "ct": "application/json",
+    "bytes": 174,
+    "file": "a1e65d32__live.txt"
+  },
+  {
+    "url": "https://quip-rust.quipgg.workers.dev/",
+    "status": 200,
+    "ct": "application/json",
+    "bytes": 570,
+    "file": "39a14584__index.txt"
+  },
+  {
+    "url": "https://quip-rust.quipgg.workers.dev/account/config",
+    "status": 200,
+    "ct": "application/json",
+    "bytes": 766,
+    "file": "214e0485__config.txt"
+  },
+  {
+    "url": "https://quip-rust.quipgg.workers.dev/giveaway/config",
+    "status": 200,
+    "ct": "application/json",
+    "bytes": 476,
+    "file": "f1512047__config.txt"
+  },
+  {
+    "url": "https://quip-rust.quipgg.workers.dev/live",
+    "status": 200,
+    "ct": "application/json",
+    "bytes": 174,
+    "file": "a1e65d32__live.txt"
+  },
+  {
+    "url": "https://quip-rust.quipgg.workers.dev/giveaway/config",
+    "status": 200,
+    "ct": "application/json",
+    "bytes": 476,
+    "file": "f1512047__config.txt"
+  },
+  {
+    "url": "https://explorer-api.walletconnect.com/v3/wallets?projectId=34357d3c125c2bcf2ce2bc3309d98715",
+    "status": 200,
+    "ct": "application/json; charset=utf-8",
+    "bytes": 1191970,
+    "file": "c3716887__wallets.txt"
+  },
+  {
+    "url": "https://quip-rust.quipgg.workers.dev/",
+    "status": 200,
+    "ct": "application/json",
+    "bytes": 570,
+    "file": "39a14584__index.txt"
+  },
+  {
+    "url": "https://auth.privy.io/api/v1/apps/cmpu10uls00j60cl7qtiufyzd",
+    "status": 200,
+    "ct": "application/json; charset=utf-8",
+    "bytes": 2757,
+    "file": "fff2ca72__cmpu10uls00j60cl7qtiufyzd.txt"
+  },
+  {
+    "url": "https://play.quip.gg/assets/TurnstileWrapper-cDvgyLcB-BnA5B8V0.js",
+    "status": 200,
+    "ct": "application/javascript",
+    "bytes": 6871,
+    "file": "d73cba39__TurnstileWrapper-cDvgyLcB-BnA5B8V0.js"
+  },
+  {
+    "url": "https://auth.privy.io/api/v1/analytics_events",
+    "status": 200,
+    "ct": "application/json; charset=utf-8",
+    "bytes": 4,
+    "file": "7cd93fd1__analytics_events.txt"
+  },
+  {
+    "url": "https://challenges.cloudflare.com/turnstile/v0/b/877c641b92f6/api.js",
+    "status": 200,
+    "ct": "application/javascript; charset=utf-8",
+    "bytes": 82469,
+    "file": "074d78f7__api.js"
+  },
+  {
+    "url": "https://o4511764483604480.ingest.us.sentry.io/api/4511779156918272/envelope/?sentry_version=7&sentry_key=741dad426c3d08b074ea530ab65fd8ac&sentry_client=sentry.javascript.react%2F10.67.0",
+    "status": 200,
+    "ct": "application/json",
+    "bytes": 2,
+    "file": "fc0b893e__envelope.txt"
+  },
+  {
+    "url": "https://auth.privy.io/_next/static/chunks/webpack-02878526230980d3.js?dpl=dpl_6dvtLrN9h7bCcXEXwCrt5GBG3HCt",
+    "status": 200,
+    "ct": "application/javascript; charset=utf-8",
+    "bytes": 11629,
+    "file": "7a838971__webpack-02878526230980d3.js"
+  },
+  {
+    "url": "https://auth.privy.io/_next/static/chunks/framework-12130cb3704cc89b.js?dpl=dpl_6dvtLrN9h7bCcXEXwCrt5GBG3HCt",
+    "status": 200,
+    "ct": "application/javascript; charset=utf-8",
+    "bytes": 189787,
+    "file": "b345c88b__framework-12130cb3704cc89b.js"
+  },
+  {
+    "url": "https://auth.privy.io/_next/static/chunks/pages/_app-91bb21c2d46d5887.js?dpl=dpl_6dvtLrN9h7bCcXEXwCrt5GBG3HCt",
+    "status": 200,
+    "ct": "application/javascript; charset=utf-8",
+    "bytes": 10482,
+    "file": "560488e9___app-91bb21c2d46d5887.js"
+  },
+  {
+    "url": "https://auth.privy.io/_next/static/chunks/main-323326fa6351dd38.js?dpl=dpl_6dvtLrN9h7bCcXEXwCrt5GBG3HCt",
+    "status": 200,
+    "ct": "application/javascript; charset=utf-8",
+    "bytes": 138135,
+    "file": "79326cd6__main-323326fa6351dd38.js"
+  },
+  {
+    "url": "blob:https://challenges.cloudflare.com/327ab8b2-39d3-4bf9-a516-8563be9d4342",
+    "status": 200,
+    "ct": "text/javascript",
+    "bytes": 291,
+    "file": "594c38d6__327ab8b2-39d3-4bf9-a516-8563be9d4342.txt"
+  },
+  {
+    "url": "https://auth.privy.io/_next/static/chunks/28f90c74-25efb0838e27f531.js?dpl=dpl_6dvtLrN9h7bCcXEXwCrt5GBG3HCt",
+    "status": 200,
+    "ct": "application/javascript; charset=utf-8",
+    "bytes": 109714,
+    "file": "fc0bcab1__28f90c74-25efb0838e27f531.js"
+  },
+  {
+    "url": "https://auth.privy.io/_next/static/chunks/23dea8d5-533edef7acd49204.js?dpl=dpl_6dvtLrN9h7bCcXEXwCrt5GBG3HCt",
+    "status": 200,
+    "ct": "application/javascript; charset=utf-8",
+    "bytes": 325457,
+    "file": "25816aae__23dea8d5-533edef7acd49204.js"
+  },
+  {
+    "url": "https://auth.privy.io/_next/static/chunks/50ad770a-f07e677401d92a7a.js?dpl=dpl_6dvtLrN9h7bCcXEXwCrt5GBG3HCt",
+    "status": 200,
+    "ct": "application/javascript; charset=utf-8",
+    "bytes": 157549,
+    "file": "80815581__50ad770a-f07e677401d92a7a.js"
+  },
+  {
+    "url": "https://auth.privy.io/_next/static/chunks/306-f5c49efc90582161.js?dpl=dpl_6dvtLrN9h7bCcXEXwCrt5GBG3HCt",
+    "status": 200,
+    "ct": "application/javascript; charset=utf-8",
+    "bytes": 48496,
+    "file": "d52085a3__306-f5c49efc90582161.js"
+  },
+  {
+    "url": "https://auth.privy.io/_next/static/chunks/2528-7653b69cfbca5aa6.js?dpl=dpl_6dvtLrN9h7bCcXEXwCrt5GBG3HCt",
+    "status": 200,
+    "ct": "application/javascript; charset=utf-8",
+    "bytes": 138634,
+    "file": "0bf2a12a__2528-7653b69cfbca5aa6.js"
+  },
+  {
+    "url": "https://auth.privy.io/_next/static/chunks/4272-9facf3228d39244d.js?dpl=dpl_6dvtLrN9h7bCcXEXwCrt5GBG3HCt",
+    "status": 200,
+    "ct": "application/javascript; charset=utf-8",
+    "bytes": 36028,
+    "file": "5a0e2f15__4272-9facf3228d39244d.js"
+  },
+  {
+    "url": "https://auth.privy.io/_next/static/chunks/190-407e6195ccef8f52.js?dpl=dpl_6dvtLrN9h7bCcXEXwCrt5GBG3HCt",
+    "status": 200,
+    "ct": "application/javascript; charset=utf-8",
+    "bytes": 32200,
+    "file": "f69bd2e6__190-407e6195ccef8f52.js"
+  },
+  {
+    "url": "https://auth.privy.io/_next/static/chunks/1205-5f0347a60b80e38e.js?dpl=dpl_6dvtLrN9h7bCcXEXwCrt5GBG3HCt",
+    "status": 200,
+    "ct": "application/javascript; charset=utf-8",
+    "bytes": 48574,
+    "file": "094cb746__1205-5f0347a60b80e38e.js"
+  },
+  {
+    "url": "https://auth.privy.io/_next/static/chunks/6736-efa8adefcc9f3c2a.js?dpl=dpl_6dvtLrN9h7bCcXEXwCrt5GBG3HCt",
+    "status": 200,
+    "ct": "application/javascript; charset=utf-8",
+    "bytes": 33851,
+    "file": "c2add399__6736-efa8adefcc9f3c2a.js"
+  },
+  {
+    "url": "https://auth.privy.io/_next/static/chunks/7421-91b8ee765a477a97.js?dpl=dpl_6dvtLrN9h7bCcXEXwCrt5GBG3HCt",
+    "status": 200,
+    "ct": "application/javascript; charset=utf-8",
+    "bytes": 170658,
+    "file": "6b3f74a5__7421-91b8ee765a477a97.js"
+  },
+  {
+    "url": "https://auth.privy.io/_next/static/chunks/2231-7339b5d8f00a4829.js?dpl=dpl_6dvtLrN9h7bCcXEXwCrt5GBG3HCt",
+    "status": 200,
+    "ct": "application/javascript; charset=utf-8",
+    "bytes": 29149,
+    "file": "32c07cb9__2231-7339b5d8f00a4829.js"
+  },
+  {
+    "url": "https://auth.privy.io/_next/static/chunks/839-4c7d5af0d12af699.js?dpl=dpl_6dvtLrN9h7bCcXEXwCrt5GBG3HCt",
+    "status": 200,
+    "ct": "application/javascript; charset=utf-8",
+    "bytes": 60862,
+    "file": "481936e8__839-4c7d5af0d12af699.js"
+  },
+  {
+    "url": "https://auth.privy.io/_next/static/chunks/5337-127f70bd8335d8ed.js?dpl=dpl_6dvtLrN9h7bCcXEXwCrt5GBG3HCt",
+    "status": 200,
+    "ct": "application/javascript; charset=utf-8",
+    "bytes": 352930,
+    "file": "fd707113__5337-127f70bd8335d8ed.js"
+  },
+  {
+    "url": "https://auth.privy.io/_next/static/chunks/9611-f1b4987deb1fba52.js?dpl=dpl_6dvtLrN9h7bCcXEXwCrt5GBG3HCt",
+    "status": 200,
+    "ct": "application/javascript; charset=utf-8",
+    "bytes": 91972,
+    "file": "71ef3317__9611-f1b4987deb1fba52.js"
+  },
+  {
+    "url": "https://auth.privy.io/_next/static/chunks/7361-fd90d46953da9569.js?dpl=dpl_6dvtLrN9h7bCcXEXwCrt5GBG3HCt",
+    "status": 200,
+    "ct": "application/javascript; charset=utf-8",
+    "bytes": 31809,
+    "file": "d61313f0__7361-fd90d46953da9569.js"
+  },
+  {
+    "url": "https://auth.privy.io/_next/static/chunks/pages/apps/%5Bapp_id%5D/embedded-wallets-8470abf1d85ebb98.js?dpl=dpl_6dvtLrN9h7bCcXEXwCrt5GBG3HCt",
+    "status": 200,
+    "ct": "application/javascript; charset=utf-8",
+    "bytes": 41567,
+    "file": "410c6466__embedded-wallets-8470abf1d85ebb98.js"
+  },
+  {
+    "url": "https://auth.privy.io/_next/static/oOcjKJM5V4mN3qm7uUH38/_buildManifest.js?dpl=dpl_6dvtLrN9h7bCcXEXwCrt5GBG3HCt",
+    "status": 200,
+    "ct": "application/javascript; charset=utf-8",
+    "bytes": 36027,
+    "file": "7215fde9___buildManifest.js"
+  },
+  {
+    "url": "https://auth.privy.io/_next/static/oOcjKJM5V4mN3qm7uUH38/_ssgManifest.js?dpl=dpl_6dvtLrN9h7bCcXEXwCrt5GBG3HCt",
+    "status": 200,
+    "ct": "application/javascript; charset=utf-8",
+    "bytes": 77,
+    "file": "eaa6daf7___ssgManifest.js"
+  },
+  {
+    "url": "https://auth.privy.io/_next/static/chunks/3102-6bb6cf0d9d3b818a.js?dpl=dpl_6dvtLrN9h7bCcXEXwCrt5GBG3HCt",
+    "status": 200,
+    "ct": "application/javascript; charset=utf-8",
+    "bytes": 339012,
+    "file": "7a1a8ee1__3102-6bb6cf0d9d3b818a.js"
+  },
+  {
+    "url": "https://auth.privy.io/_next/static/chunks/5666-4d66809815c45c40.js?dpl=dpl_6dvtLrN9h7bCcXEXwCrt5GBG3HCt",
+    "status": 200,
+    "ct": "application/javascript; charset=utf-8",
+    "bytes": 222662,
+    "file": "36bc6bea__5666-4d66809815c45c40.js"
+  },
+  {
+    "url": "https://auth.privy.io/_next/static/chunks/9888-de01ef027def3b6e.js?dpl=dpl_6dvtLrN9h7bCcXEXwCrt5GBG3HCt",
+    "status": 200,
+    "ct": "application/javascript; charset=utf-8",
+    "bytes": 86733,
+    "file": "3e17a626__9888-de01ef027def3b6e.js"
+  },
+  {
+    "url": "https://auth.privy.io/_next/static/chunks/660-41c5dad56b7d16f9.js?dpl=dpl_6dvtLrN9h7bCcXEXwCrt5GBG3HCt",
+    "status": 200,
+    "ct": "application/javascript; charset=utf-8",
+    "bytes": 404058,
+    "file": "adfaa1be__660-41c5dad56b7d16f9.js"
+  },
+  {
+    "url": "blob:https://challenges.cloudflare.com/327ab8b2-39d3-4bf9-a516-8563be9d4342",
+    "status": 200,
+    "ct": "text/javascript",
+    "bytes": 291,
+    "file": "594c38d6__327ab8b2-39d3-4bf9-a516-8563be9d4342.txt"
+  },
+  {
+    "url": "blob:https://challenges.cloudflare.com/a1f511df-6a72-4460-8f85-bda36c354cc9",
+    "status": 200,
+    "ct": "text/javascript",
+    "bytes": 291,
+    "file": "4b28927a__a1f511df-6a72-4460-8f85-bda36c354cc9.txt"
+  },
+  {
+    "url": "blob:https://challenges.cloudflare.com/a1f511df-6a72-4460-8f85-bda36c354cc9",
+    "status": 200,
+    "ct": "text/javascript",
+    "bytes": 291,
+    "file": "4b28927a__a1f511df-6a72-4460-8f85-bda36c354cc9.txt"
+  }
+]
